@@ -12,8 +12,8 @@ Spring Boot: Leverages the power of Spring Boot for ease of setup and configurat
 
 
 ## Technologies Used
-Java 11
-Spring Boot 2.x
-Redis (v6.x or higher)
-Jedis (v4.x)
-Lombok for reducing boilerplate code
+**Java 11**
+**Spring Boot 2.x**
+**Redis (v6.x or higher)**
+**Jedis (v4.x)**
+**Lombok for reducing boilerplate code**
